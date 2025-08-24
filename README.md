@@ -105,6 +105,8 @@ You can use this AMI in EC2 launch templates, Terraform, or other AWS services.
 
 ---
 
-## License
+## Next Steps
 
-MIT License
+* Integrate CI/CD pipelines to automatically build and deploy AMIs
+* Use Terraform to provision infrastructure using the generated AMIs
+* Add eBPF scripts for enhanced observability, security monitoring, and performance tracing
