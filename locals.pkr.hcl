@@ -10,6 +10,4 @@ locals {
       ami_name       = "gpu-ami-prod"
     }
   }
-
-  lynis_version = "3.1.5"
 }
